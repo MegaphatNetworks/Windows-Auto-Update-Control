@@ -12,4 +12,4 @@ Use the following values for setting the Auto-Update Option (AUOption):
 	4 = Automatically download and schedule installation. Only valid if values exist for ScheduledInstallDay and ScheduledInstallTime.
 	5 = Automatic Updates is required and users can configure it.
 ```
-So you will need to set the value of `$auOption` such as  `$auOption = 2` 
+&emsp;So you will need to set the value of `$auOption` such as  `$auOption = 2` 
