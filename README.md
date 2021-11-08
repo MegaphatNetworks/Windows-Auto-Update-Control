@@ -16,5 +16,6 @@ So you will need to set the value of `$auOption` such as  `$auOption = 2`
 
 ---
 
-As always I am thankful for any support.
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/MegaphatNetwork)
+As always I am thankful for any support.  
+<!--- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/MegaphatNetwork) --->
+
