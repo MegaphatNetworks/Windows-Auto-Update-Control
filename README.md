@@ -14,5 +14,7 @@ Use the following values for setting the Auto-Update Option (AUOption):
 
 So you will need to set the value of `$auOption` such as  `$auOption = 2` 
 
+---
+
 As always I am thankful for any support.
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/MegaphatNetwork)
